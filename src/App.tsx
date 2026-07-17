@@ -76,7 +76,7 @@ function App() {
       
       {/* NAVBAR */}
       <nav style={{ padding: '20px 40px', backgroundColor: '#000', display: 'flex', justifyContent: 'space-between', alignItems: 'center', position: 'sticky', top: 0, zIndex: 10, boxShadow: '0 4px 10px rgba(0,0,0,0.5)' }}>
-        <h1 style={{ margin: 0, fontSize: '24px', color: '#E50914', fontWeight: 'bold' }}>🍿 NontonKuy</h1>
+        <h1 style={{ margin: 0, fontSize: '24px', color: '#E50914', fontWeight: 'bold' }}>NontonKuy</h1>
         <input 
           type="text" 
           placeholder="Cari judul film..." 
